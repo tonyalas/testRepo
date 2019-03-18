@@ -1,1 +1,2 @@
-console.log("go to extensions and download 'git lens' :) ");
+console.log("hello squirrworld");
+console.log("hello world 123");
